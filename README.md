@@ -18,4 +18,4 @@ Python com as bibliotecas: Flask, Escpos e Datetime
 
 Interface: Html, CSS
 
-<h4 align="center"> 🛠️ EM CONSTRUCÃO </h4>
+
